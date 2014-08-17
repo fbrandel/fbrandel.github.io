@@ -7,8 +7,9 @@ title: Living Styleguides
 
 #### hologram
 
-Website: (http://trulia.github.io/hologram/)
-Github: (https://github.com/trulia/hologram)
+Website: [http://trulia.github.io/hologram/](http://trulia.github.io/hologram/)
+
+Github: [https://github.com/trulia/hologram](https://github.com/trulia/hologram)
 
 #### livingstyleguide
 
