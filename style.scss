@@ -198,7 +198,8 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
+  margin-top: 47px;  
   color: $gray;
   font-size: 16px;
   
@@ -209,9 +210,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue; 
-  font-size: 18px;
+  margin-top: 52px; // @TODO: Vertically middle align
+  //font-family: $helveticaNeue; 
+  font-size: 12px;
   
   @include mobile {
     float: none;
@@ -224,8 +225,8 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    //font-weight: 300;
+    //letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -279,6 +280,25 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+// Entry 
+
+.entry {
+  padding-bottom: 30px;
+}
+
+// Tables
+
+table {
+  border: 1px solid $gray;
+
+  td {
+    border: 1px solid $lightGray;
+    padding: 7px;
+  }
+}
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
