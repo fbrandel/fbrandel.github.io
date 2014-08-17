@@ -13,8 +13,9 @@ Github: [https://github.com/trulia/hologram](https://github.com/trulia/hologram)
 
 #### livingstyleguide
 
-Website: http://livingstyleguide.org/
-Github: https://github.com/hagenburger/livingstyleguide
+| Website | [http://livingstyleguide.org/](http://livingstyleguide.org/) |
+| Github | [https://github.com/hagenburger/livingstyleguide](https://github.com/hagenburger/livingstyleguide) |
+
 
 #### KSS - Knyle Style Sheets
 
